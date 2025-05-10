@@ -1,0 +1,8 @@
+{
+  "name": "chart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "5c7deb2a"
+}
