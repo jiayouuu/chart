@@ -1,3 +1,10 @@
+<!--
+ * @Author: jiayouuu
+ * @Date: 2025-05-10 09:44:15
+ * @LastEditors: jiayouuu
+ * @LastEditTime: 2025-05-10 10:03:19
+ * @Description: 
+-->
 <template>
   <ion-page>
     <ion-header>
@@ -12,12 +19,10 @@
         </ion-toolbar>
       </ion-header>
 
-      <ExploreContainer name="Tab 3 page" />
     </ion-content>
   </ion-page>
 </template>
 
 <script setup lang="ts">
 import { IonPage, IonHeader, IonToolbar, IonTitle, IonContent } from '@ionic/vue';
-import ExploreContainer from '@/components/ExploreContainer.vue';
 </script>
