@@ -1,10 +1,3 @@
-/*
- * @Author: jiayouuu
- * @Date: 2025-05-10 09:44:15
- * @LastEditors: jiayouuu
- * @LastEditTime: 2025-05-10 10:18:26
- * @Description: 
- */
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router';
