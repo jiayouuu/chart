@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">chart</string>
     <string name="title_activity_main">chart</string>
-    <string name="package_name">io.ionic.starter</string>
-    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="package_name">com.ygq.chart</string>
+    <string name="custom_url_scheme">com.ygq.chart</string>
 </resources>
